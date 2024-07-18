@@ -1,0 +1,32 @@
+# Suomenkielinen lokalisointitiedosto VMPlayer Installerille.
+# Tekijänoikeus 2015 Pawel "pavroo" Pijanowski <pavroo@onet.eu> 10.11.2015
+# GNU GPL v2:n alla
+# Viimeisin päivitys 2020/11/04 pavroo
+LOCAL1="Poistu"
+LOCAL2="Nimi"
+LOCAL3="Kuvaus"
+LOCAL4="VMware Playerin online-asennusohjelma"
+LOCAL5="On-Line-asennusohjelma tarjoaa:\nVMware Player 16/15/12 64 bit\n\nVMware Player 6 32 bit\n\nValitse vaihtoehto:"
+LOCAL6="Asenna VMware Player"
+LOCAL7="Päivitä VMware Player"
+LOCAL8="Poista VMware Player järjestelmästä"
+LOCAL9="Älä tee mitään, asenna sen myöhemmin"
+LOCAL10="Sovellus on jo asennettu!"
+LOCAL11="Poistutaan..."
+LOCAL12="Sovellus on asennettu onnistuneesti!"
+LOCAL13="Jotain on vialla! \nLuultavasti olet lopettanut asennuksen tai Internet-yhteytesi on katkennut.\n\nJos olet jo ladannut asennusohjelman, voit suorittaa sen manuaalisesti:"
+LOCAL14="Sinun on poistettava VMware Playerin vanhempi versio järjestelmästä ennen uuden asentamista. \n\nHaluatko poistaa sen nyt?"
+LOCAL15="Mitään ei ole muutettu! \n\nLopeta napsauttamalla OK."
+LOCAL16="Jotain on vialla! \nEi löydä uutta VMware Player Installer -versiota.\n\nTarkista Internet-yhteytesi ja yritä uudelleen."
+LOCAL17="VMware Playerin vanhempaa versiota EI ole poistettu, joten sitä EI voi päivittää."
+LOCAL18="VMware Playerin vanhempi versio on poistettu onnistuneesti.\n\nVoit asentaa uuden nyt."
+LOCAL19="Internet-yhteystesti epäonnistui!\n\nEt todennäköisesti ole yhteydessä Internetiin tai projektipalvelin ei toimi.\n\nTarkista ja yritä uudelleen."
+LOCAL20="VMware Playeria ei löydy tietokoneellesi asennettuna, joten sitä EI voi päivittää."
+LOCAL21="Tämä poistaa VMware Playerin järjestelmästäsi.\n\nHaluatko poistaa sen nyt?"
+LOCAL22="VMware Playeriä EI ole poistettu."
+LOCAL23="VMware Player on poistettu tai sitä ei ole asennettu tietokoneellesi."
+LOCAL24="Se ei voi olla asennettu Debian/Sparky-versioosi."
+LOCAL25="Valitse asennettava VMware-versio:"
+### .desktop-tiedosto, johon käännetään
+# Name[en_US]=VMware Playerin asennusohjelma
+# Comment[en_US]=Tämän avulla voit asentaa, päivittää ja poistaa VMware Playerin

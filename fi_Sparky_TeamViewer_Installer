@@ -1,0 +1,13 @@
+# Suomenlielinen lokalisointitiedosto Sparky TeamViewer Installerille
+# Tekijänoikeus 2015 PaweÅ‚ "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/05
+# GNU GPL v2:n alla
+# Viimeisin päivitys 2015/11/05
+LOCAL1="Poistu"
+LOCAL2="Nimi"
+LOCAL3="Kuvaus"
+LOCAL4="Teamviewer Linux Installerille"
+LOCAL5="Internet-yhteystesti epäonnistui!\n\nTodennäköisesti et ole yhteydessä Internetiin tai päävarastopalvelin on poissa käytöstä.\n\nTarkista ja yritä uudelleen."
+LOCAL6="Tämä asentaa Teamviewerin Linuxille.\n\nHaluatko asentaa nyt?"
+LOCAL7="Pakettia ei ole asennettu! \n\nPoistutaan..."
+LOCAL8="Sovellus on asennettu onnistuneesti! \n\nPoistutaan..."
+LOCAL9="Jotain on vialla! \nLuultavasti olet lopettanut asennuksen tai Internet-yhteytesi on katkennut.\nTarkista ja yritä uudelleen.\n\nPoistutaan..."
